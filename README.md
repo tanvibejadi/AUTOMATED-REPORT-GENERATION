@@ -1,6 +1,6 @@
 # AUTOMATED-REPORT-GENERATION
 
-COMPANY: CODETECH IT SOLUTIONS
+COMPANY: CODTECH IT SOLUTIONS
 
 NAME: TANVI BEJADI
 
@@ -40,3 +40,7 @@ By automating the generation of structured PDF reports from raw data, this solut
 
 Conclusion:
 In summary, this project demonstrates the practical use of Python scripting for automating everyday reporting tasks. The tools and techniques used are widely available and beginner-friendly, making this a valuable skill for students, analysts, and professionals across disciplines. With slight customization, the script can serve as a foundational component in larger reporting systems or dashboards.
+
+#OUTPUT
+
+<img width="985" height="813" alt="Image" src="https://github.com/user-attachments/assets/41b8cc5c-e399-4202-80f6-da4696855048" />
